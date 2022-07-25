@@ -1,0 +1,27 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .rightArrow {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+  
+  .leftArrow {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: aliceblue;
+    transform: translate(-50%, -50%);
+  }
